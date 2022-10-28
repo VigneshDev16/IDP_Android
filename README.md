@@ -1,1 +1,1 @@
-# wso2is-android-sample-app
+# Identity Server 4  android integeration
